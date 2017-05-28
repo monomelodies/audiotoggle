@@ -1,0 +1,32 @@
+{
+  "name": "audiotoggle",
+  "version": "1.0.0",
+  "description": "<img src=\"http://phonertc.io/images/logo_black.png\" width=\"400\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monomelodies/audiotoggle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monomelodies/audiotoggle/issues"
+  },
+  "homepage": "https://github.com/monomelodies/audiotoggle#readme",
+  "cordova": {
+    "id": "com.dooble.audiotoggle",
+    "platforms": [
+        "ios",
+        "android"
+    ]
+  },
+  "engines": [
+    {
+        "name": "cordova",
+        "version": ">=3.5.0"
+    }
+  ]
+}
